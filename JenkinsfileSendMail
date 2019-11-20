@@ -1,0 +1,1 @@
+emailext body: 'A Jenkis build was done', recipientProviders: [developers()], subject: 'Jenkins Build', to: 'astrid.silaghi@gmail.com'
